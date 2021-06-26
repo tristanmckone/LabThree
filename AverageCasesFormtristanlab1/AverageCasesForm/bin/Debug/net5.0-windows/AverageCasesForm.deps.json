@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AverageCasesForm/1.0.0": {
+        "runtime": {
+          "AverageCasesForm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AverageCasesForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
